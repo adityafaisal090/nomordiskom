@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199363855687",
+    "project_id": "siagenda-1845d",
+    "storage_bucket": "siagenda-1845d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199363855687:android:f012c0bb8013655cea3862",
+        "android_client_info": {
+          "package_name": "com.diskominfo.siagenda_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHEp70BGz50Z-wb9FMz47dfHqSR1xiN-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
